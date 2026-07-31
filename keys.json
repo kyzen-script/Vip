@@ -1,0 +1,11 @@
+{
+    "Kyzen Hub Premium": {
+        "expire": 4102444800,
+        "type": "Lifetime"
+    },
+
+    "Kyzen Vip": {
+        "expire": 1756804800,
+        "type": "2 Days"
+    }
+}
