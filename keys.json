@@ -4,14 +4,13 @@
         "type": "Lifetime"
     },
 
-    "Kyzen Vip": {
+    "KYZEN-VIP-8RQM-DAY": {
         "expire": 1756804800,
         "type": "2 Days"
-    }
-}
+    },
 
-    "KYZEN-VIP-8RQM-2DAY": {
-        "expire": 1756804800,
-        "type": "2 Days"
+    "OBF-THAITUAT-X9LK-DAY": {
+        "expire": 1757064000,
+        "type": "5 Days"
     }
 }
