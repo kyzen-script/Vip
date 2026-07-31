@@ -10,12 +10,6 @@
     }
 }
 
-{
-    "KYZEN-7XPA-4M2K-LIFE": {
-        "expire": 4102444800,
-        "type": "Lifetime"
-    },
-
     "KYZEN-VIP-8RQM-2DAY": {
         "expire": 1756804800,
         "type": "2 Days"
